@@ -9,7 +9,7 @@ import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import ProjectFour from '../component/project/ProjectFour';
 import TestimonialOne from '../component/testimonial/TestimonialOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import ProcessOne from '../component/process/ProcessOne.js';
+import ProcessOne from '../component/process/ProcessOne';
 
 import SectionTitle from '../elements/section-title/SectionTitle';
 import ServicePropOne from '../component/service/ServicePropOne';
